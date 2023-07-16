@@ -15,7 +15,7 @@
     "build:cd": "npm i --production"
   },
   "dependencies": {
-    "@qelos/plugin-play": "^3.3.7",
+    "@qelos/plugin-play": "^3.3.8",
     "tsx": "^3.12.1",
     "mongodb": "^5.0.0"
   },
