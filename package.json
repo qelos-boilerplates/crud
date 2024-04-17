@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "16",
-    "npm": "8"
+    "node": "20",
+    "npm": "9"
   },
   "scripts": {
     "bootstrap": "mkdir -p cert && npm run create-certs",
@@ -15,11 +15,11 @@
     "build:cd": "npm i --production"
   },
   "dependencies": {
-    "@qelos/plugin-play": "^3.3.9",
-    "tsx": "^3.12.1",
-    "mongodb": "^5.0.0"
+    "@qelos/plugin-play": "^3.3.10",
+    "tsx": "^3.14.0",
+    "mongodb": "^5.9.2"
   },
   "devDependencies": {
-    "@types/node": "^16.18.3"
+    "@types/node": "^20.12.7"
   }
 }
