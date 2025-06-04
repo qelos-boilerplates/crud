@@ -15,11 +15,11 @@
     "build:cd": "npm i --production"
   },
   "dependencies": {
-    "@qelos/plugin-play": "^3.4.1",
-    "tsx": "^3.14.0",
+    "@qelos/plugin-play": "^3.8.3",
+    "tsx": "^4.19.4",
     "mongodb": "^5.9.2"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7"
+    "@types/node": "^22.15.29"
   }
 }
